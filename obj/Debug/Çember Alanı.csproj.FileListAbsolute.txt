@@ -1,0 +1,9 @@
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\bin\Debug\Çember Alanı.exe.config
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\bin\Debug\Çember Alanı.exe
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\bin\Debug\Çember Alanı.pdb
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember_Alanı.Form1.resources
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember_Alanı.Properties.Resources.resources
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember Alanı.csproj.GenerateResource.cache
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember Alanı.csproj.CoreCompileInputs.cache
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember Alanı.exe
+O:\Udemy C# Ödevleri\Çember Alanı\Çember Alanı\obj\Debug\Çember Alanı.pdb
